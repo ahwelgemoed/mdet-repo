@@ -1,0 +1,14 @@
+{
+  "name": "mendix-tauri",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "npm run tauri dev",
+    "compile": "npm run tauri build",
+    "tauri": "tauri"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@tauri-apps/cli": "^1.0.0-rc.9",
+    "typescript": "^4.4.4"
+  }
+}
